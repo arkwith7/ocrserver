@@ -110,6 +110,9 @@ ENV/
 env.bak/
 venv.bak/
 
+# OCR each language learnning data
+traineddata/
+
 # Spyder project settings
 .spyderproject
 .spyproject
